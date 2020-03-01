@@ -1,11 +1,14 @@
 # Urban Sound Classification
 Un-Supervised Learning Capstone Project 
 
-In this capstone project, UrbanSound8K Audio Dataset was used. T
+Sonic event classification is a field of growing research. Most of these researches focuses on music or speech recognition. There are scarce works on environment sounds with very few databases for labeled environment audio data.
+
+In this capstone project, UrbanSound8K Audio Dataset was used. 
+
 
 ## Data Set
 
-he dataset is comprised of 8732 slices (audio excerpts) of up to 4 s in duration extracted from field recordings crawled from the Freesound online archive.
+The dataset is comprised of 8732 slices (audio excerpts) of up to 4 s in duration extracted from field recordings crawled from the Freesound online archive.
 
 Each slice contains one of 10 possible sound sources: air conditioner, car horn, children playing, dog bark, drilling, engine idling, gun shot, jackhammer, siren, street music.
 
