@@ -22,7 +22,7 @@ We used the VGG-like model to generate the 128-dimensional features using the [a
 
 The project involved cluster analysis and evaluation and drawing conclusions from the cluster data.
 
-[View the Cluster Analysis Here](https://github.com/rajinigurijala/Capstone4/blob/master/UrbanSoundUnsupervised.ipynb)
+[View Cluster Analysis Here](https://github.com/rajinigurijala/Capstone4/blob/master/UrbanSoundUnsupervised.ipynb)
 
 ## Technologies Used
 - Python, Numpy, Pandas, Matplotlib, Seaborn, SKLearn, Librosa, Audioset
