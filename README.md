@@ -16,9 +16,13 @@ AUDIO FILES INCLUDED
 
 We used the VGG-like model to generate the 128-dimensional features using the [audioset](https://github.com/tensorflow/models/tree/master/research/audioset/vggish) library available in the TensorFlow models Github repository, along with supporting code for audio feature generation, embedding postprocessing, and demonstrations of the model in inference and training modes.
 
-[View the Jupyter Notebook Here](https://github.com/.ipynb)
+[View Feature Extraction Here](https://github.com/rajinigurijala/Capstone4/blob/master/ExtractFeatures.ipynb)
+
+## Cluster Analysis
 
 The project involved cluster analysis and evaluation and drawing conclusions from the cluster data.
+
+[View the Cluster Analysis Here](https://github.com/rajinigurijala/Capstone4/blob/master/UrbanSoundUnsupervised.ipynb)
 
 ## Technologies Used
 - Python, Numpy, Pandas, Matplotlib, Seaborn, SKLearn, Librosa, Audioset
