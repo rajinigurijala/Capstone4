@@ -13,7 +13,7 @@ AUDIO FILES INCLUDED
 8732 audio files of urban sounds (see description above) in WAV format. The sampling rate, bit depth, and number of channels are the same as those of the original file uploaded to Freesound (and hence may vary from file to file).
 
 
-[View the Jupyter Notebook Here](https://github.com/pooja2512/Adult-Census-Income/blob/master/Adult%20Census%20Income.ipynb)
+[View the Jupyter Notebook Here](https://github.com/.ipynb)
 
 The project involved cluster analysis and evaluation and drawing conclusions from the cluster data.
 
