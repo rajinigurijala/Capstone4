@@ -12,6 +12,9 @@ AUDIO FILES INCLUDED
 
 8732 audio files of urban sounds (see description above) in WAV format. The sampling rate, bit depth, and number of channels are the same as those of the original file uploaded to Freesound (and hence may vary from file to file).
 
+## Feature Extraction
+
+We used the VGG-like model to generate the 128-dimensional features using the [audioset](https://github.com/tensorflow/models/tree/master/research/audioset/vggish) library available in the TensorFlow models Github repository, along with supporting code for audio feature generation, embedding postprocessing, and demonstrations of the model in inference and training modes.
 
 [View the Jupyter Notebook Here](https://github.com/.ipynb)
 
